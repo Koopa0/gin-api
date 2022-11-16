@@ -1,0 +1,14 @@
+.idea
+.air.toml
+air.toml
+/Makefile
+.fleet
+/tmp
+/dist
+/database.yml
+/static
+/migrations
+/ImageInfo.txt
+/local.env
+/sqlc.yaml
+/db
